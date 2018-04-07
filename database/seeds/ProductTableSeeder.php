@@ -12,38 +12,38 @@ class ProductTableSeeder extends Seeder
     public function run()
     {
          $product = new \App\Product([
-            'imgPath' => 'http://ecx.images-amazon.com/images/I/51ZU%2BCvkTyL.jpg',
-            'title' => 'Harry Potter',
-            'description' => 'Super cool - at least as a child.',
-            'price' => 10
+            'imgPath' => 'https://images-na.ssl-images-amazon.com/images/I/71zmGqgsmGL._AC_SR201,266_.jpg',
+            'title' => 'Linon Tavern Table Set',
+            'description' => 'Linon Tavern Collection 3-Piece Table Set',
+            'price' => 109
         ]);
         $product->save();
         $product = new \App\Product([
-            'imgPath' => 'http://www.revelationz.net/images/book/gameofthrones3.jpg',
-            'title' => 'A Song of Ice and Fire - A Storm of Swords',
-            'description' => 'No one is going to survive!',
-            'price' => 10
+            'imgPath' => 'https://images-na.ssl-images-amazon.com/images/I/41iQhFTx5iL._AC_US160_.jpg',
+            'title' => 'Mecor Dining Set',
+            'description' => 'Mecor Dining Set Glass Top Table with Leather Chairs Kitchen Breakfast Furniture Black (5 PC)',
+            'price' => 190
         ]);
         $product->save();
         $product = new \App\Product([
-            'imgPath' => 'http://d.gr-assets.com/books/1411114164l/33.jpg',
-            'title' => 'Lord of the Rings',
-            'description' => 'I found the movies to be better ...',
-            'price' => 20
+            'imgPath' => 'https://images-na.ssl-images-amazon.com/images/I/41BJUhPN0IL._AC_US160_.jpg',
+            'title' => 'Zinus Farmhouse Dining Table',
+            'description' => 'Zinus Farmhouse Dining Table with Two Benches / 3 piece set',
+            'price' => 195
         ]);
         $product->save();
         $product = new \App\Product([
-            'imgPath' => 'http://ecx.images-amazon.com/images/I/919-FLL37TL.jpg',
-            'title' => 'A Song of Ice and Fire - Game of Thrones',
-            'description' => 'No one is going to survive!',
-            'price' => 20
+            'imgPath' => 'https://images-na.ssl-images-amazon.com/images/I/41klxJnierL._AC_US160_.jpg',
+            'title' => 'Dorel Living 3-Piece Devyn Faux',
+            'description' => 'Dorel Living 3-Piece Devyn Faux Marble Pub Dining Set',
+            'price' => 210
         ]);
         $product->save();
         $product = new \App\Product([
-            'imgPath' => 'http://www.georgerrmartin.com/wp-content/uploads/2012/08/feastforcrows.jpg',
-            'title' => 'A Song of Ice and Fire - A Feast for Crows',
-            'description' => 'Still, no one is going to survive!',
-            'price' => 20
+            'imgPath' => 'https://images-na.ssl-images-amazon.com/images/I/51YVoLEbiIL._AC_US160_.jpg',
+            'title' => 'EcoDecors Satori 35in Teak Dining Table',
+            'description' => 'EcoDecors Satori 35in Teak Dining Table and 2 Solid Teak Folding Chair Set',
+            'price' => 222
         ]);
         $product->save();
     }
