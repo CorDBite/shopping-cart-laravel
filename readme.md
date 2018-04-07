@@ -9,9 +9,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+## About The Series
+
+Welcome to the Brank new Series of Build a shopping cart in laravel 5.6 by CorDBite Team.In this Series we will create a shopping cart in laravel 5.6
+You can get <a href="">Full Series</a> at our official Website <a href="">CorDbite.com</a>
+
+
+
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
