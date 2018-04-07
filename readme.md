@@ -13,7 +13,7 @@ You can get <a href="">Full Series</a> at our official Website <a href="">CorDbi
 
 we will Cover following section in this Series
 - [Install a New Laravel Project](http://cordbite.com/how-to-setup-new-laravel-with-xampp-windows)
-- [Data Migration] (http://cordbite.com/build-a-shopping-cart-in-laravel-part-1) 
+- [Data Migration](http://cordbite.com/build-a-shopping-cart-in-laravel-part-1) 
 - Data Seeding 
 - Out Products Listing 
 - Authenticaion in Laravel and Middlewares in Laravel
