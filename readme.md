@@ -13,13 +13,14 @@ You can get <a href="">Full Series</a> at our official Website <a href="">CorDbi
 
 
 we will Conver following section in this Series
-- [Install a New Laravel Project]
-- [Data Migration ]
-- [Data Seeding ]
-- [Out Products Listing ]
-- [Authenticaion in Laravel and Middlewares in Laravel]
-- [Makking and Order]
-- [Orders Listing]
+- Install a New Laravel Project
+- Data Migration 
+- Data Seeding 
+- Out Products Listing 
+- Authenticaion in Laravel and Middlewares in Laravel
+- Makking and Order
+- Orders Listing
+
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
 
