@@ -2,19 +2,13 @@
   <a href="http://google.com"><h1>Build a Shopping Cart in Laravel 5.6 - CorDBite</h1></a>
 </p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
 
 
-## About The Series
 
-Welcome to the Brank new Series of Build a shopping cart in laravel 5.6 by CorDBite Team.In this Series we will create a shopping cart in laravel 5.6
+## About Series
+
+Welcome to the Brand new Series of <a href="">Build a shopping cart in laravel 5.6</a> by <a href="">CorDBite</a> Team. In this Series we will create a shopping cart in laravel 5.6
 You can get <a href="">Full Series</a> at our official Website <a href="">CorDbite.com</a>
-
 
 
 
