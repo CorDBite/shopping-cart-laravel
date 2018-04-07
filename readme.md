@@ -1,4 +1,6 @@
-<p align="center">## About Laravel</p>
+<p align="center">
+  <a href=""><h2>About US</h2></a>
+</p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
