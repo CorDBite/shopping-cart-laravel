@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="google.com"><h1>About US</h1></a>
+  <a href="http://google.com"><h1>About US</h1></a>
 </p>
 
 <p align="center">
