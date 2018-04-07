@@ -1,20 +1,19 @@
 <p align="center">
-  <a href="http://google.com"><h1>Build a Shopping Cart in Laravel 5.6 - CorDBite</h1></a>
+  <a href="http://cordbite.com/build-a-shopping-cart-in-laravel/"><h1>Build a Shopping Cart in Laravel 5.6 - CorDBite</h1></a>
 </p>
 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling.
+
 
 ## About Series
 
-Welcome to the Brand new Series of <a href="">Build a shopping cart in laravel 5.6</a> by <a href="">CorDBite</a> Team. In this Series we will create a shopping cart in laravel 5.6
-You can get <a href="">Full Series</a> at our official Website <a href="">CorDbite.com</a>
+Welcome to the Brand new Series of <a href="http://cordbite.com/build-a-shopping-cart-in-laravel">Build a shopping cart in laravel 5.6</a> by <a href="http://cordbite.com/">CorDBite</a> Team.In this Series we will create a shopping cart in laravel 5.6
+You can get <a href="http://cordbite.com/build-a-shopping-cart-in-laravel">Full Series</a> at our official Website <a href="http://cordbite.com/">CorDbite.com</a>
 
 
-
-we will Conver following section in this Series
-- Install a New Laravel Project
-- Data Migration 
+we will Cover following section in this Series
+- [Install a New Laravel Project](http://cordbite.com/how-to-setup-new-laravel-with-xampp-windows)
+- [Data Migration] (http://cordbite.com/build-a-shopping-cart-in-laravel-part-1) 
 - Data Seeding 
 - Out Products Listing 
 - Authenticaion in Laravel and Middlewares in Laravel
@@ -22,33 +21,4 @@ we will Conver following section in this Series
 - Orders Listing
 
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
-
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](http://patreon.com/taylorotwell):
-
-- **[Vehikl](http://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Styde](https://styde.net)**
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+For more Visit our official website <a href="http://cordbite.com/">http://cordbite.com/</a>
