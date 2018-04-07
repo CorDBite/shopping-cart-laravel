@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=""><h2>About US</h2></a>
+  <a href=""><h1>About US</h1></a>
 </p>
 
 <p align="center">
